@@ -32,5 +32,8 @@ The metadata is as seen below;
 ## Step 3: Data Exploration and cleaning using Power BI power query editor.
 - Removed the unnecessary columns
   
-  Explored the columns using the magical power bi `column profile` button 
+  Explored the columns using the magical power bi `column profile` button
+  
+![column profile](https://github.com/WAKIOM/Westlands-hospitals/blob/main/images/Column%20profile.png)
+
 
