@@ -29,11 +29,20 @@ Out of this data, only 16 columns were relevant to our analysis questions.
 The metadata is as seen below;  
 
 ![image](https://github.com/WAKIOM/Westlands-hospitals/blob/main/images/medatata.png)
-## Step 3: Data Exploration and cleaning using Power BI power query editor.
+## Step 3: Modelling and cleaning using Power BI power query editor.
 - Removed the unnecessary columns
   
-  Explored the columns using the magical power bi `column profile` button
-  
+  Explored the columns using the magical power bi `column profile` and `column quality` buttons.
+##### Check the columns' distribution.
 ![column profile](https://github.com/WAKIOM/Westlands-hospitals/blob/main/images/Column%20profile.png)
+##### Check for errors and completeness 
+![column quality](https://github.com/WAKIOM/Westlands-hospitals/blob/main/images/column%20quality.png)
 
+- Replaced null with zero in the review count column
+- Replace missing values with null
+- Performed modeling using DAX functions
+- Created a new table to hold the calculations I did so that my Original table remains clean.
+  The dataset was now ready for cooking.
+## Step 4: Data analysis
 
+  
