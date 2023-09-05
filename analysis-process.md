@@ -5,6 +5,7 @@ What is listing and claiming your business on Google and why is it important?
 _When visitors find your business on Google and see a complete, verified listing, they’ll have more trust that it’s a legitimate business. This encourages more people to call or visit your company and purchase its products. Claiming your business on Google also helps you get found in local search results_ 
 If you are curious, check [listing your business on Google](https://www.indeed.com/hire/c/info/claim-business-google#:~:text=If%20you%20claim%20a%20business%20on%20Google%2C%20it%20comes%20up,appears%20on%20your%20business%20listing.) for more.
  Thus our business questions:
+ Part 1
 1. How many of them have a complete listing?
 2. Does the business have a website?
 3. Do they have reviews?
@@ -44,5 +45,6 @@ The metadata is as seen below;
 - Created a new table to hold the calculations I did so that my Original table remains clean.
   The dataset was now ready for cooking.
 ## Step 4: Data analysis
+To answer the Part one of our analysis question, I created this visualization. 
 
   
