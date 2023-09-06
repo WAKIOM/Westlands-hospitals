@@ -14,11 +14,11 @@ If you are curious, check [listing your business on Google](https://www.indeed.c
 
 Part 2
 After knowing how the businesses are listed, we want to dive deeper into their profiles.
-1. What are the categories of businesses
-2. What are the top 10 most reviewed businesses?
-3. What are their average ratings
+1. What are the categories of hospitals
+2. What are the top 5 most reviewed hospitals?
+3. What are the top 5 highest-rated hospitals?
 4. When are they opened
-5. What time do they open
+5. How many are claimed
 
 ## Step 2: Data Exploration
 The dataset contains 100 rows and 22 columns of raw data. Very dirty
@@ -45,14 +45,42 @@ The metadata is as seen below;
 - Created a new table to hold the calculations I did so that my Original table remains clean.
   The dataset was now ready for cooking.
 ## Step 4: Data analysis
-To answer Part One of our analysis questions, I created this visualization. 
+To answer Part One of our analysis questions, I created this dashboard. It is like a report that comes with recommendations and findings.
 ![visualization of hospitals google listing profiles](https://github.com/WAKIOM/Westlands-hospitals/blob/main/images/Viz%20Hosps%20Google%20theme.jpg)
 
 To answer part two of the analysis questions
 
-This visualization I designed to be interactive. This way anyone can use the slicers to filter the data to answer all the questions.
+This is an interactive dashboard designed on Power BI. This way anyone can use the slicers to filter the data to answer all the questions.
 ![visualization](https://github.com/WAKIOM/Westlands-hospitals/blob/main/images/Visualization%20of%20westlandslistings.png)
 
+## Step 5: Findings
++ There are 17 categories of hospitals
+  The four most common ones are
+  ```
+  Hospital
+  Medical Center
+  Medical Clinic
+  Children's hospital
+  ```
++ The top 5 most reviewed hospitals are;
+ ```
+ The Nairobi West Hospital
+ The Nairobi Hospital's Doctor's Plaza
+ MP Shah Hospital
+ Avenue healthcare Nairobi
+ DR Agarwals Eye Hospital Nairobi
+```
++ The highest-rated hospitals
+  Merit is that they have at least 50 reviews.
+   
+```
+Westlands Laser Eye Hospital
+DR Agarwals Eye Hospital Nairobi
+The Nairobi West Hospital
+Guru Nanak Ramgarhia Sikh Hospital
+Meditest Hospital
+```
++ Only 19 out of 100 hospitals are open 24 hours
++ 56 hospitals open during weekends
++ Only 83  hospitals are claimed.
 
-
-  
