@@ -15,7 +15,7 @@ If you are curious, check [listing your business on Google](https://www.indeed.c
 Part 2
 After knowing how the businesses are listed, we want to dive deeper into their profiles.
 1. What are the categories of businesses
-2. What are the top 5 most reviewed businesses?
+2. What are the top 10 most reviewed businesses?
 3. What are their average ratings
 4. When are they opened
 5. What time do they open
@@ -46,10 +46,13 @@ The metadata is as seen below;
   The dataset was now ready for cooking.
 ## Step 4: Data analysis
 To answer Part One of our analysis questions, I created this visualization. 
-![visualization of hospitals google listing profiles](https://github.com/WAKIOM/Westlands-hospitals/blob/main/images/Viz%20Hospitals%20listings.png)
+![visualization of hospitals google listing profiles](https://github.com/WAKIOM/Westlands-hospitals/blob/main/images/Viz%20Hosps%20Google%20theme.jpg)
+
 To answer part two of the analysis questions
-The interactive report can be accessed here.
-[link](https://app.powerbi.com/reportEmbed?reportId=e283b16c-73e0-4af7-8abc-415ae95bf0de&autoAuth=true&ctid=96b37e4b-e222-4f58-9fa6-2c794ccad6b3)
+
+This visualization I designed to be interactive. This way anyone can use the slicers to filter the data to answer all the questions.
+![visualization](https://github.com/WAKIOM/Westlands-hospitals/blob/main/images/Visualization%20of%20westlandslistings.png)
+
 
 
   
