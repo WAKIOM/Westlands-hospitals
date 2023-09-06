@@ -45,6 +45,11 @@ The metadata is as seen below;
 - Created a new table to hold the calculations I did so that my Original table remains clean.
   The dataset was now ready for cooking.
 ## Step 4: Data analysis
-To answer the Part one of our analysis question, I created this visualization. 
+To answer Part One of our analysis questions, I created this visualization. 
+![visualization of hospitals google listing profiles](https://github.com/WAKIOM/Westlands-hospitals/blob/main/images/Viz%20Hospitals%20listings.png)
+To answer part two of the analysis questions
+The interactive report can be accessed here.
+[link](https://app.powerbi.com/reportEmbed?reportId=e283b16c-73e0-4af7-8abc-415ae95bf0de&autoAuth=true&ctid=96b37e4b-e222-4f58-9fa6-2c794ccad6b3)
+
 
   
